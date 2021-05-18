@@ -21,3 +21,7 @@ Laser panels
 Templates
 
 ![image](https://user-images.githubusercontent.com/1212585/118638645-59f4d000-b7d7-11eb-972c-970e44fc698a.png)
+
+MANUAL https://docs.google.com/document/d/e/2PACX-1vQdXhjQnPfG5nEXSv-b6BPJMUaWmZ9nTrjr7eyRZ8YXJKy7PR_oPh8DKZZ7zhJ0Uhv_Qlv7Jtzf_VFu/pub
+
+Videos https://youtube.com/playlist?list=PLsr-1w2u44j1GSALEquPiCipzCwMYSo8_
