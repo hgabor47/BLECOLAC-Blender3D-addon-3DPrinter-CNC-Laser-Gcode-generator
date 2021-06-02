@@ -18,6 +18,9 @@ Laser panels
 
 ![image](https://user-images.githubusercontent.com/1212585/118638525-3a5da780-b7d7-11eb-9933-9b7f91663421.png)
 
+Direct printing
+![image](https://user-images.githubusercontent.com/1212585/120438879-28a50400-c382-11eb-9721-64ad1123257e.png)
+
 Templates
 
 ![image](https://user-images.githubusercontent.com/1212585/118638645-59f4d000-b7d7-11eb-972c-970e44fc698a.png)
