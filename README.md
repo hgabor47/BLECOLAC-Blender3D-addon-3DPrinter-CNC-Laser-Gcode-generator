@@ -28,4 +28,4 @@ Templates
 
 MANUAL https://docs.google.com/document/d/e/2PACX-1vQdXhjQnPfG5nEXSv-b6BPJMUaWmZ9nTrjr7eyRZ8YXJKy7PR_oPh8DKZZ7zhJ0Uhv_Qlv7Jtzf_VFu/pub
 
-Videos https://youtube.com/playlist?list=PLsr-1w2u44j1GSALEquPiCipzCwMYSo8
+Videos (https://youtube.com/playlist?list=PLsr-1w2u44j1GSALEquPiCipzCwMYSo8_)
