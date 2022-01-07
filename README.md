@@ -22,6 +22,10 @@ Direct printing
 
 ![image](https://user-images.githubusercontent.com/1212585/120438879-28a50400-c382-11eb-9721-64ad1123257e.png)
 
+GCODE Viewer (a fast check for generated gcode)
+
+![image](https://user-images.githubusercontent.com/1212585/148534720-cdbb09e2-997c-459b-87b9-4d82464d9be4.png)
+
 Templates
 
 ![image](https://user-images.githubusercontent.com/1212585/118638645-59f4d000-b7d7-11eb-972c-970e44fc698a.png)
