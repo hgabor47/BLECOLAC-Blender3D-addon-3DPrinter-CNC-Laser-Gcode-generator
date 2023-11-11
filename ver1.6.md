@@ -12,7 +12,7 @@ Youtube short: https://youtu.be/dnXFF8bggOM
 
 2. Inset
 
-Készítettem egy inset megoldást, mellyel egy körvonalat kitöltethetünk.
+I created an inset solution to fill in an outline.
 
 ![ezgif com-gif-maker](https://github.com/hgabor47/BLECOLAC-Blender3D-addon-3DPrinter-CNC-Laser-Gcode-generator/assets/1212585/366d2396-4730-483e-b530-0f909d620ea7)
 
