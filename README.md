@@ -2,6 +2,7 @@
 This is a bugs and status public site's of my addon for Blender 3D. 
 You can generate GCode for your 3D Printer what is capable of a laser and (or) carver toolheads.
 
+[Blendermarket](https://blendermarket.com/products/blecolac---3dprinter-cnclaser-gcode-exportercontroller-blender-3d-addon)
 Additional specifications per version: [VER 1.6](https://github.com/hgabor47/BLECOLAC-Blender3D-addon-3DPrinter-CNC-Laser-Gcode-generator/blob/main/ver1.6.md)
 
 # Common
